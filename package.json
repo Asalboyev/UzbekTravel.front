@@ -6,7 +6,7 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
-    "start": "next start --port 37162"
+    "start": "next start"
   },
   "dependencies": {
     "@emotion/is-prop-valid": "latest",
