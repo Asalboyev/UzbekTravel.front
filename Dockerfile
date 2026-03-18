@@ -31,4 +31,4 @@ COPY --from=builder /app/public ./public
 
 EXPOSE 3000
 
-CMD ["npm", "start", "--port", "37162"]
+CMD ["npm", "start"]
